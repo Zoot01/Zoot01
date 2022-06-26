@@ -5,4 +5,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zoot01&show_icons=true&locale=en&layout=compact" alt="zoot01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoot01&show_icons=true&locale=en" alt="zoot01" /></p>
+<p style="margin-top: 10px">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zoot01&show_icons=true&locale=en" alt="zoot01" /></p>

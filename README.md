@@ -1,5 +1,5 @@
 <h1 align="center">Hi Y'all <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px" height="32px"></h1>
-<h3 align="center">I enjoy working with JavaScript on my free time!</h3>
+<h3 align="center">I enjoy working with JavaScript during my free time!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zoot01&label=Profile%20views&color=0e75b6&style=flat" alt="zoot01" style="margin: 50px" /> </p>
 
